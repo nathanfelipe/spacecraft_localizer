@@ -1,0 +1,1 @@
+The goal of this project is to plot a 3D plot with the "real time" position of NASA/ESA spacecrafts. We start with PSP, MMS and a crude model of the Parker Spiral.

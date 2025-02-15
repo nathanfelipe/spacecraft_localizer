@@ -14,7 +14,7 @@ This project models the Heliospheric Current Sheet (HCS) using the Parker Spiral
 
 ## Project Structure
 
-.
+```
 ├── Dockerfile                        # Docker setup for running the project
 ├── requirements.txt                   # List of dependencies
 ├── project_outline.md                 # High-level description of the project
@@ -24,6 +24,7 @@ This project models the Heliospheric Current Sheet (HCS) using the Parker Spiral
 ├── jpl_approach_psp.py                # Queries PSP ephemeris data from JPL
 ├── mms.py                             # Processes MMS mission data
 ├── plot_with_parker_spiral.png        # Example visualization output
+```
 
 ## Installation
 
